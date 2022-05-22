@@ -1,0 +1,23 @@
+idea/
+server/node_modules/
+client/node_modules/
+
+server/package-lock.json
+client/package-lock.json
+
+server/public/multimedia
+
+# testing
+/coverage
+
+# production
+/build
+
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
